@@ -1,0 +1,3 @@
+- [] simple_bot.py is a good start
+- [] to do backtesting
+- [] to add better strategy
